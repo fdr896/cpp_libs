@@ -36,10 +36,10 @@
     - [BindFront](https://github.com/fdr896/cpp_libs/blob/master/meta/bind_front.h) (`std::bind_front` analogue)
     - [Constexpr map](https://github.com/fdr896/cpp_libs/blob/master/meta/constexpr_map.h)
     - [Curry](https://github.com/fdr896/cpp_libs/blob/master/meta/curry.h)
-    - [TransformTuple](https://github.com/fdr896/cpp_libs/blob/master/meta/transform_tuple.h) (`std::transform` equivalent for `std::tuple`)
+    - [TransformTuple](https://github.com/fdr896/cpp_libs/blob/master/meta/transform_tuple.h) (`std::transform` equivalent of `std::tuple`)
 
 - Some design patterns implementation
-    - [Any](https://github.com/fdr896/cpp_libs/blob/master/patterns/any.h) (equivalent to `std::any`)
+    - [Any](https://github.com/fdr896/cpp_libs/blob/master/patterns/any.h) (equivalent of `std::any`)
     - [Immutable Vector from Scala](https://github.com/fdr896/cpp_libs/blob/master/patterns/immutable_vector.h)
     - [Test framework](https://github.com/fdr896/cpp_libs/blob/master/patterns/test_framework.h) (example of abstract farm pattern)
 
